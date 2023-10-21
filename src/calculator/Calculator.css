@@ -1,0 +1,52 @@
+.tax-calculator{
+    margin: 40px 80px;
+    font-family: 'poppins' , sans-serif;
+}
+.tax-calculator .heading{
+    text-align: center;
+}
+.tax-calculator .heading{
+    font-size: 2rem;
+    font-weight: bolder;
+}
+.section1{
+    margin-top: 50px;
+}
+.col-form-label{
+    font-size: 13px;
+    font-weight: 600;
+}
+.inputs{
+    font-weight: 800;
+    font-size: 18px;
+    background-color: #EFF2F5;
+}
+.chech-1{
+    background-color: #EFF2F5;
+    border-radius: 5px;
+    border: 1px solid rgb(234, 232, 232);
+
+}
+.check{
+    height: 50px;
+}
+.tax_text{
+    font-size: 14px !important;
+    font-weight: 600;
+}
+.tax_box1{
+    background-color:#EBF9F4;
+}
+.tax_box2{
+    background: #EBF2FF;
+
+}
+.tax_value1{
+    font-weight: bolder;
+    color: #0FBA83;
+
+}.tax_value2{
+    color: #0141CF;
+    font-weight: bolder;
+
+}

@@ -1,0 +1,23 @@
+.left{
+    background-color: #fff;
+    height: 900px;
+    /* width: 866px; */
+    margin-top: 25px;
+    border: gray;
+    border-radius: 10px;
+}
+.right{
+    background-color: #0052FE;
+    height: 576px;
+    width: 408px;
+    margin-top: 25px;
+    border-radius: 10px;
+}
+.faq{
+    background-color: #fff;
+    height: 900px;
+    /* width: 866px; */
+    margin-top: 25px;
+    border: gray;
+    border-radius: 10px;
+}
